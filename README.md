@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gazal</h1>
 <h3 align="center">Pre-final year student.</h3>
 
-- 🔭 I’m currently working on **Langchain & Gemini API**
+<!--- 🔭 I’m currently working on **Langchain & Gemini API**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
