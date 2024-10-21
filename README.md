@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **2580gazal@gmail.com**
 </p>
 
 <h3 align="left">Programming Languages:</h3>
