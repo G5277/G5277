@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g5277&label=Profile%20views&color=0e75b6&style=flat" alt="g5277" /> </p>
 
-- 🔭 I’m currently working on **LeetCode-75 Problems, Smart Health Diagnostic System and exploring Tableau.**
+- 🔭 I’m currently working on **LeetCode-75 Problems, Deep Learning and exploring Tableau.**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -49,6 +49,7 @@
   </a>
 </p>
 
+<!--
 <h3 align="left">DevOps:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -59,6 +60,7 @@
   </a>
  
 </p>
+-->
 
 <h3 align="left">Softwares:</h3>
 <p align="left">
