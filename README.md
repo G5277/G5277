@@ -89,3 +89,17 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g5277&show_icons=true&locale=en&layout=compact" alt="g5277" /></p>
+
+<br>
+
+## Support:
+<p><a href="https://www.buymeacoffee.com/starling5277"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="starling5277" /></a></p><br><br>
+
+<br>
+
+## 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g5277&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="g5277" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=g5277&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="g5277" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g5277&theme=radical&hide_border=true" alt="g5277" /></p>
