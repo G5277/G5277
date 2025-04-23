@@ -9,12 +9,7 @@
 
 - 📫 How to reach me **2580gazal@gmail.com**
 
-- ⚡ Fun fact **I think I am lost somewhere within myself.**
-
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-  2580gazal@gmail.com1
-</p>-->
+- ⚡ Fun fact **I am a Coffee Addicta.**
 
 
 
