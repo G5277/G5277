@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g5277&label=Profile%20views&color=0e75b6&style=flat" alt="g5277" /> </p>
 
-- 🔭 I’m currently working on **LeetCode-75 Problems, Deep Learning and exploring Tableau.**
+- 🔭 I’m currently solving **LeetCode Problems** and working on **Deep Learning based projects**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently looking for a ***Full Time/6M Internship Opportunity in Data Scientist Role/Software Development Role***
 
 - 📫 How to reach me **2580gazal@gmail.com**
 
-- ⚡ Fun fact **I am a Coffee Addicta.**
+- ⚡ **I am a Coffee Addicta**
 
 
 
